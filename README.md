@@ -19,6 +19,7 @@ A state-of-the-art legal assistance system combining:
 - Federal Court Rulings
 - Administrative Law
 
+
 ## System Architecture
 
 ```mermaid
